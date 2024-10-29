@@ -1,3 +1,0 @@
-<link rel='alternate' href='https://your-website.com/it/chi-siamo' hreflang='it' />
-<link rel='alternate' href='https://your-website.com/about-us' hreflang='en' />
-<link rel='alternate' href='https://your-website.com/about-us' hreflang='x-default' />
