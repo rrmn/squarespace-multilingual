@@ -1,0 +1,5 @@
+/* Ensure there are no gaps between elements around thelanguage selector bubble */
+.SocialLinks-inner {
+    display: flex;
+    gap: 0; 
+}
